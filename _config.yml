@@ -147,7 +147,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://danilshekarev.github.io/GURPS"
+baseurl: "GURPS"
 
 # ------------ The following options are not recommended to be modified ------------------
 
